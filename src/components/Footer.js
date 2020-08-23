@@ -5,7 +5,7 @@ const Footer = () => {
         
         <div className="site-footer">
             <h4 className="text-center">Code Blog</h4>
-            <p className="text-center">Follow us on Social Media</p>
+            <p className="text-center">Made By Hamza Hayat</p>
             
             
         </div>
